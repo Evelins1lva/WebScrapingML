@@ -1,4 +1,4 @@
-Web Scraping no Mercado Livre 🌐🛒
+Web Scraping Mercado Livre 🛒🌐
 Este script Python foi desenvolvido para realizar web scraping no Mercado Livre, extraindo informações sobre produtos de diferentes páginas da lista de pesquisa.
 
 Como Funciona 🚀
